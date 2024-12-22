@@ -1,5 +1,9 @@
 
-body {
+body{
+    margin: 0;
+}
+
+header {
     background-image: url(pics/Object.png);
     margin: 0;
 }
@@ -69,4 +73,52 @@ footer p{
     position: relative;
     top: 100px;
     justify-content: center;
+    color: white;
+   
+}
+#profile1{
+    position: relative;
+    right: 70px;
+    
+}
+#profile2{
+    position: relative;
+    right: 30px;
+    
+}
+#profile3{
+    position: relative;
+    left: 30px;
+    
+}
+#profile4{
+    position: relative;
+    left: 70px;
+    
+}
+#section1{
+   display: flex;
+   position: relative;
+   top:150px ;
+   bottom: 150px;
+   margin: 0;
+   color: white;
+   background-color: blueviolet;
+   justify-content: center;
+   padding: 70px;
+}
+#section1 img{
+    position: relative;
+    right: 60px;
+}
+#section2 h3{
+    color: black;
+    text-align: center;
+}
+#section2{
+    position: relative;
+    top: 130px;
+    padding: 100px;
+    justify-content: center;
+    
 }
