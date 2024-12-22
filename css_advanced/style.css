@@ -1,6 +1,72 @@
 
-
-
-
-
-
+body {
+    background-image: url(pics/Object.png);
+    margin: 0;
+}
+#logo{
+    padding-top: 30px;
+    padding-left: 150px;
+}
+nav{
+    float: right;
+    padding-top: 30px;
+    padding-right: 150px;
+    word-spacing: 40px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    
+}
+h1{
+    color: white;
+    font-size: 120px;
+    text-align: center;
+    letter-spacing: 5px;
+    padding-top: 80px;
+}
+  ul{
+    display: flex;
+    text-align: center;
+}
+ ul li{
+    text-decoration: none;
+}
+button{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 20px;
+    height: 50px;;
+    width: 150px;
+    display: block;
+    margin: auto;
+    position: relative;
+    bottom: 50px;
+    
+}
+#slogan{
+    color: white;
+    text-align: center;
+    word-spacing: 50px;
+    position: relative;
+    bottom: 70px;
+}
+footer{
+    background-color: navy;
+    position: relative;
+    top: 150px;
+}
+footer p{
+    color: grey;
+    text-align: center;
+}
+#says{
+    position: relative;
+    text-align: center;
+}
+#profiles{
+    display: flex;
+    position: relative;
+    top: 100px;
+    justify-content: center;
+}
