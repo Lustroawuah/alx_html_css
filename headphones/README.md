@@ -10,7 +10,6 @@ This webpage is designed to:
 
 ## Features
 - **Modern Design**: Clean and minimalist aesthetic to appeal to tech-savvy users.
-- **Product Highlights**: Dedicated sections for features, specifications, and user reviews.
 - **Responsive Layout**: Optimized for desktops, tablets, and smartphones.
 - **Call-to-Action**: Integrated buttons for purchasing or learning more about the product.
 
@@ -22,12 +21,12 @@ This webpage is designed to:
 ## How to Use
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/headphone-webpage.git
+git clone https://github.com/Lustroawuah/alx_html_css.git
 ```
 
 ### 2. Navigate to the Project Directory
 ```bash
-cd headphone-webpage
+cd headphones
 ```
 
 ### 3. Open the Webpage
