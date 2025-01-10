@@ -36,8 +36,8 @@ cd headphones
 - Edit the HTML and CSS files to add your own branding or tweak the design to fit your needs.
 
 ## File Structure
-- `index.html`: The main HTML file for the webpage.
-- `styles.css`: The CSS file containing all the styling rules.
+- `0-index.html`: The main HTML file for the webpage.
+- `0-styles.css`: The CSS file containing all the styling rules.
 - `assets/`: Directory for images, icons, and other media assets.
 
 ## Contributing
