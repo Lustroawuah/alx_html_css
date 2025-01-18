@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.what-we-do {
+    text-align: center;
+    padding: 40px;
+    background-color: #fff;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px; /* Adjust as needed */
+}
+
+h2 {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+p {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap; 
+}
+
+.icon {
+    flex: 1 1 150px; 
+    margin: 10px;
+    text-align: center;
+}
+
+.icon i {
+    font-size: 40px;
+    color: #3498db; 
+    margin-bottom: 10px;
+}
+
+.icon p {
+    font-size: 14px;
+    color: #555;
+}
